@@ -4,6 +4,7 @@ relative_links:
   enabled: true
   collections: true
 include:
+  - _pages
   - CONTRIBUTING.md
   - README.md
   - LICENSE.md

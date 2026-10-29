@@ -1,6 +1,10 @@
+---
+permalink: /
+---
+
 # Melchior Simioni
 
-Maître de conférences contractuel en sociologie à la [Faculté des sciences sociales de l’Université de Strasbourg](https://www.unistra.fr/) et chercheur au laboratoire [SAGE](https://sage.unistra.fr/membres/enseignants-chercheurs/simioni-melchior/).
+Assistant Professor / Maître de conférences contractuel en sociologie à la [Faculté des sciences sociales de l’Université de Strasbourg](https://www.unistra.fr/) et chercheur au laboratoire [SAGE](https://sage.unistra.fr/membres/enseignants-chercheurs/simioni-melchior/) SAGE (Sociétés, Acteurs et Gouvernement en Europe, UMR 7363 CNRS).
 
 ## Recherche
 
