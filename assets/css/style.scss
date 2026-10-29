@@ -112,9 +112,25 @@ a:hover {
   font-weight: 700;
 }
 
-footer {
-  padding-top: 1rem;
+.site-footer {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 18rem), 1fr));
+  gap: 1.5rem;
+  padding-top: 1.25rem;
   margin-top: 2rem;
   background: none;
   border-top: 1px solid #e2e2e2;
+}
+
+.site-footer p {
+  margin-bottom: 0.75rem;
+}
+
+.site-footer-name {
+  color: #292929;
+  font-weight: 700;
+}
+
+.site-footer nav {
+  font-size: 0.9rem;
 }
