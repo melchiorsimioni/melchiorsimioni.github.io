@@ -22,7 +22,8 @@ De 2022 à 2024, j’ai été en charge à l’Observatoire français des drogue
 - [Enseignements](https://msimioni.com/teaching)
 - [Publications](https://msimioni.com/publications)
 - [Travaux en cours et autres activités](https://msimioni.com/varia)
-- [CV en français](https://msimioni.com/pdfs/cvsimioni_francais2023.pdf) · [CV in English](https://msimioni.com/pdfs/cvsimioni_english2023.pdf) {: #sanspuce}
+- [CV en français](https://msimioni.com/pdfs/cvsimioni_francais2023.pdf) · [CV in English](https://msimioni.com/pdfs/cvsimioni_english2023.pdf)
+ {: #sanspuce}
 
 ## Contact
 
