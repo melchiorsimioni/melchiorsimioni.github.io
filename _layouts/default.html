@@ -14,9 +14,17 @@
       <div class="inner">
         <nav class="site-nav" aria-label="Navigation principale">
           <a class="site-nav-home" href="{{ '/' | relative_url }}">Melchior Simioni</a>
-          <a href="{{ '/publications' | relative_url }}">Publications</a>
-          <a href="{{ '/teaching' | relative_url }}">Enseignements</a>
-          <a href="{{ '/varia' | relative_url }}">Varia</a>
+          <details class="site-nav-menu">
+            <summary>
+              <span class="site-nav-menu-icon" aria-hidden="true"><span></span><span></span><span></span></span>
+              <span class="visually-hidden">Ouvrir ou fermer le menu</span>
+            </summary>
+            <div class="site-nav-links">
+              <a href="{{ '/publications' | relative_url }}">Publications</a>
+              <a href="{{ '/teaching' | relative_url }}">Enseignements</a>
+              <a href="{{ '/varia' | relative_url }}">Varia</a>
+            </div>
+          </details>
         </nav>
         {% if site.show_downloads %}
         <a href="{{ site.github.zip_url }}" class="button">Download .zip</a>
