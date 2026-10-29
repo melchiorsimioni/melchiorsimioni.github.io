@@ -64,6 +64,23 @@ p {
   padding-left: 0;
 }
 
+#main_content ul#sanspuce,
+#main_content ul#sanspuce li {
+  list-style: none;
+}
+
+#main_content ul#sanspuce {
+  padding-left: 0;
+}
+
+#main_content ul#intext {
+  padding-left: 1.25rem;
+}
+
+#main_content ul#intext li {
+  margin: 10px 0;
+}
+
 a {
   color: #176b87;
 }
