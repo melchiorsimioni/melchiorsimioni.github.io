@@ -1,91 +1,29 @@
-# Page de Melchior Simioni (test)
+# Melchior Simioni
 
-## Introduction de Melchior Simioni
+Maître de conférences contractuel en sociologie à la [Faculté des sciences sociales de l’Université de Strasbourg](https://www.unistra.fr/) et chercheur au laboratoire [SAGE](https://sage.unistra.fr/membres/enseignants-chercheurs/simioni-melchior/).
 
-Je crée un lien vers [mon site](https://msimioni.com). 
+## Recherche
 
-This little guide demonstrate how to turn any [Github](http://github.com) repository with a bunch of [Markdown](https://en.wikipedia.org/wiki/Markdown) files into a simple website using [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
+Mes recherches se situent au croisement de la sociologie économique et de la sociologie des contextes sociaux précaires. Je m’intéresse notamment à l’organisation économique des lieux d’enfermement et aux dispositifs d’appariement.
 
-* You don't need to use the command line or anything other than your browser.
-* It doesn't require any knowledge in Jekyll.
-* It's completely compatible with any bunch of markdown files you already have in any existing repository without any modification to those files. That includes the basic `README.md` almost all repositories contain.
-* The markdown files will remain just as readable and usable in Github than in your website.
+Ma thèse, soutenue en 2020, porte sur l’organisation économique formelle et informelle des prisons françaises. Elle s’appuie sur une enquête ethnographique de six mois menée en maison centrale ([résumé de la thèse](https://www.theses.fr/2020SORUL110)).
 
-In fact this guide uses the same configuration and can be read both in Github and in Github Pages, at your preference:
+Avec Philippe Steiner, je travaille également sur les dispositifs d’appariement et leurs effets sur la société. Ces recherches ont notamment donné lieu à [*La société du matching*](https://www.pressesdesciencespo.fr/fr/book/?GCOI=27246100125290) (2024) et à l’ouvrage collectif [*Comment ça matche ? Une sociologie de l’appariement*](https://www.pressesdesciencespo.fr/fr/book/?GCOI=27246100689700) (2022).
 
-* [Here is the link to the Github version](https://github.com/nicolas-van/easy-markdown-to-github-pages)
-* [Here is the link to the Github Pages version](https://nicolas-van.github.io/easy-markdown-to-github-pages/)
+De 2022 à 2024, j’ai été en charge à l’Observatoire français des drogues et des tendances addictives de l’enquête [ESSPRI](https://www.ofdt.fr/publication/2024/les-consommations-de-drogues-en-prison-resultat-de-l-enquete-esspri-2023-2001/), consacrée à la santé et aux consommations de substances en prison. J’ai aussi étudié, avec Elsa Génard, l’histoire de la statistique pénitentiaire ([article dans les *Annales*](https://doi.org/10.1017/ahss.2019.94)).
 
-## Step by step instructions
+## Enseignement et publications
 
-### Determine the repository where you want to activate Github Pages
+- [Enseignements](https://msimioni.com/teaching)
+- [Publications](https://msimioni.com/publications)
+- [Travaux en cours et autres activités](https://msimioni.com/varia)
+- [CV en français](https://msimioni.com/pdfs/cvsimioni_francais2023.pdf) · [CV in English](https://msimioni.com/pdfs/cvsimioni_english2023.pdf)
 
-You can of course create a new repository if you want.
+## Contact
 
-### Create the `_config.yml` file
+[msimioni@unistra.fr](mailto:msimioni@unistra.fr) · [melchior.simioni@pm.me](mailto:melchior.simioni@pm.me)
 
-That file should be created on the root of your repository. Here is some content to copy-paste in it:
+Faculté des sciences sociales, Le Patio (bureau 5.332)  
+22 rue René Descartes, 67084 Strasbourg Cedex
 
-```
-plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - CONTRIBUTING.md
-  - README.md
-  - LICENSE.md
-  - COPYING.md
-  - CODE_OF_CONDUCT.md
-  - CONTRIBUTING.md
-  - ISSUE_TEMPLATE.md
-  - PULL_REQUEST_TEMPLATE.md
-```
-
-It's basically just a few tuning of Github Pages' default configuration to have a better handling of Markdown files.
-
-### Activate Github Pages in your repository configuration
-
-On the Github page of your project go into `Settings > Options > Github Pages`:
-
-![](./printscreen1.png)
-
-In the `Source` option, select `master branch` then `Save`:
-
-![](./printscreen2.png)
-
-You must also choose a theme:
-
-![](./printscreen3.png)
-
-That's it! Now you can juste use the link provided by Github to access you website:
-
-![](./printscreen4.png)
-
-## Usage guide
-
-* Any markdown file in your repository will display in your Github Pages website. You just have to use the same path to access it and replace the `.md` extension by `.html`.
-* To make links between your Markdown files just use a relative path to the other Markdown file. The configuration you copy pasted in your `_config.yml` provides a plugin to convert those URLs. So your Markdown files will have correct links both in Github and Github Pages.
-* The index page of your website can be a `index.md` file or a `README.md` file. If both exists the `index.md` file has priority.
-* You should be able to use any [Github Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-## Known differences between Github and Github Pages
-
-* No automatic links with Github Pages. The Github Markdown renderer can automatically detect a simple copy-pasted link and make it a clickable link. Github Pages doesn't propose a feature to reproduce that behavior, so you'll have to braces your links with the `[]()` syntax.
-
-## Recipes
-
-Since the purpose of this guide is to demonstrate how to publish multiple Markdown files as a website but I don't have much more to say I will propose you some delicious recipes instead:
-
-* [Escalivada](./recipes/Escalivada.md)
-* [Gazpacho](./recipes/Gazpacho.md)
-* [Pasta all'amatriciana](./recipes/Pasta_all_amatriciana.md)
-
-## Contributing
-
-See the [Contribution Guide](./CONTRIBUTING.md).
-
-## License
-
-See the [License File](./LICENSE.md).
+[Page institutionnelle](https://sage.unistra.fr/membres/enseignants-chercheurs/simioni-melchior/) · [LinkedIn](https://www.linkedin.com/in/melchiorsimioni) · [Google Scholar](https://scholar.google.com/citations?user=_pVx5BkAAAAJ&hl=fr)
