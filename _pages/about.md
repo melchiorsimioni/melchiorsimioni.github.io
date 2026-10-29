@@ -32,6 +32,6 @@ De 2022 à 2024, j’ai été en charge à l’Observatoire français des drogue
 [msimioni@unistra.fr](mailto:msimioni@unistra.fr) · [melchior.simioni@pm.me](mailto:melchior.simioni@pm.me)
 
 Faculté des sciences sociales, Le Patio (bureau 5.124)  
-22 rue René Descartes, 67084 Strasbourg Cedex
+22 rue René Descartes, 67000 Strasbourg
 
 [Page institutionnelle (SAGE)](https://sage.unistra.fr/membres/enseignants-chercheurs/simioni-melchior/) · [LinkedIn](https://www.linkedin.com/in/melchiorsimioni) · [Google Scholar](https://scholar.google.com/citations?user=_pVx5BkAAAAJ&hl=fr)

@@ -14,17 +14,18 @@
       <div class="inner">
         <nav class="site-nav" aria-label="Navigation principale">
           <a class="site-nav-home" href="{{ '/' | relative_url }}">Melchior Simioni</a>
-          <details class="site-nav-menu">
-            <summary>
+          <div class="site-nav-menu">
+            <input class="site-nav-toggle" type="checkbox" id="site-nav-toggle">
+            <label class="site-nav-toggle-label" for="site-nav-toggle">
               <span class="site-nav-menu-icon" aria-hidden="true"><span></span><span></span><span></span></span>
               <span class="visually-hidden">Ouvrir ou fermer le menu</span>
-            </summary>
+            </label>
             <div class="site-nav-links">
               <a href="{{ '/publications' | relative_url }}">Publications</a>
               <a href="{{ '/teaching' | relative_url }}">Enseignements</a>
               <a href="{{ '/varia' | relative_url }}">Varia</a>
             </div>
-          </details>
+          </div>
         </nav>
         {% if site.github.public %}
         <a href="{% if site.github.is_project_page %}{{ site.github.repository_url }}{% else %}{{ site.github.owner_url }}{% endif %}" class="button">View on GitHub</a>
