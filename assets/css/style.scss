@@ -181,7 +181,7 @@ a:hover {
     padding: 0.5rem 1rem;
     background: #fff;
     border: 1px solid #e2e2e2;
-    box-shadow: 0 4px 12px rgb(0 0 0 / 10%);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
   }
 
   .site-nav-menu[open] .site-nav-links {
