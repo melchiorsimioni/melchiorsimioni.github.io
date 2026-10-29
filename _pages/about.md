@@ -3,7 +3,9 @@ layout: default
 permalink: /
 ---
 
-# Melchior Simioni
+# Bienvenue | Welcome
+
+## Melchior Simioni
 
 Assistant Professor / Maître de conférences contractuel en sociologie à la [Faculté des sciences sociales de l’Université de Strasbourg](https://sciences-sociales.unistra.fr/faculte/enseignants-chercheurs/) et chercheur au laboratoire [SAGE](https://sage.unistra.fr/melchior-simioni) (Sociétés, Acteurs et Gouvernement en Europe, UMR 7363 CNRS).
 
@@ -19,10 +21,10 @@ De 2022 à 2024, j’ai été en charge à l’Observatoire français des drogue
 
 ## Enseignement et publications
 
-- [Enseignements](https://msimioni.com/teaching)
-- [Publications](https://msimioni.com/publications)
-- [Travaux en cours et autres activités](https://msimioni.com/varia)
-- [CV en français](https://msimioni.com/pdfs/cvsimioni_francais2023.pdf) · [CV in English](https://msimioni.com/pdfs/cvsimioni_english2023.pdf)
+- [Enseignements](/teaching)
+- [Publications](/publications)
+- [Travaux en cours et autres activités](/varia)
+- [CV in English](/cv/cv-english.pdf)
  {: #sanspuce}
 
 ## Contact
