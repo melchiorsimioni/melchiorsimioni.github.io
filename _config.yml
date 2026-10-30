@@ -1,5 +1,7 @@
 plugins:
   - jekyll-relative-links
+  - jekyll-seo-tag
+  - jekyll-sitemap
 relative_links:
   enabled: true
   collections: true
@@ -15,3 +17,21 @@ include:
   - PULL_REQUEST_TEMPLATE.md
 
 theme: jekyll-theme-tactile
+
+title: Melchior Simioni
+description: >-
+  Maître de conférences contractuel en sociologie à l’Université de Strasbourg
+  et chercheur au laboratoire SAGE. Recherches sur l’économie, le travail et les prisons.
+url: https://melchiorsimioni.github.io
+lang: fr-FR
+
+author:
+  name: Melchior Simioni
+
+social:
+  name: Melchior Simioni
+  links:
+    - https://www.linkedin.com/in/melchiorsimioni
+    - https://github.com/melchiorsimioni
+    - https://orcid.org/0009-0007-4735-4454
+    - https://scholar.google.com/citations?user=_pVx5BkAAAAJ

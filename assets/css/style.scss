@@ -65,12 +65,20 @@ p {
 }
 
 #main_content ul#sanspuce,
-#main_content ul#sanspuce li {
+#main_content ul#sanspuce li,
+#main_content ul#sanspuce2,
+#main_content ul#sanspuce2 li {
   list-style: none;
+  margin: 0;
 }
 
-#main_content ul#sanspuce {
+#main_content ul#sanspuce,
+#main_content ul#sanspuce2 {
   padding-left: 0;
+}
+
+#main_content ul#sanspuce2 {
+  margin-bottom: 1.1rem;
 }
 
 #main_content ul#intext {
@@ -243,6 +251,14 @@ a:hover {
   margin-bottom: 0.75rem;
 }
 
+.site-footer-credit {
+  grid-column: 1 / -1;
+  margin: 0;
+  color: #777;
+  font-size: 0.8rem;
+  text-align: center;
+}
+
 .site-footer-name {
   grid-column: 1 / -1;
   color: #292929;
@@ -250,8 +266,9 @@ a:hover {
   font-weight: 700;
 }
 
-.site-footer nav {
-  font-size: 0.9rem;
+.site-footer-details,
+.site-footer-contact {
+  font-size: 0.8rem;
 }
 
 .site-footer-links {

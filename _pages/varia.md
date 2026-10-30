@@ -1,6 +1,10 @@
 ---
 layout: default
 permalink: /varia
+title: Valorisation et diffusion
+description: >-
+  Interventions, articles, podcasts et autres activités de diffusion des recherches
+  de Melchior Simioni en sociologie.
 ---
 
 # Valorisation et diffusion
