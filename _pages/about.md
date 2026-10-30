@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /
-title: Sociologie
+title: Melchior Simioni
 description: >-
   Melchior Simioni, maître de conférences contractuel en sociologie à l’Université
   de Strasbourg et chercheur au laboratoire SAGE. Recherches sur l’économie,
