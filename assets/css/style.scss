@@ -6,8 +6,8 @@
 body {
   color: #333;
   background: #fff;
-  font-family: "Libre Franklin", Arial, sans-serif;
-  line-height: 1.5;
+  font-family: "Source Serif 4", Georgia, serif;
+  line-height: 1.6;
   text-shadow: none;
 }
 
@@ -39,6 +39,11 @@ h6 {
   letter-spacing: normal;
 }
 
+h1,
+h2 {
+  font-family: "Source Sans 3", Arial, sans-serif;
+}
+
 h1 {
   margin-bottom: 1.5rem;
   font-size: 2rem;
@@ -57,7 +62,7 @@ h3 {
 }
 
 p {
-  margin-bottom: 1.4rem;
+  margin-bottom: 1rem;
   font-weight: normal;
 }
 
@@ -104,10 +109,13 @@ a:hover {
   justify-content: space-between;
   padding: 1rem 0;
   border-bottom: 1px solid #e2e2e2;
+  font-family: "Source Sans 3", Arial, sans-serif;
 }
 
 .site-nav a {
   color: #555;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
   text-decoration: none;
 }
 
@@ -246,6 +254,7 @@ a:hover {
   margin-top: 2rem;
   background: none;
   border-top: 1px solid #e2e2e2;
+  font-family: "Source Sans 3", Arial, sans-serif;
 }
 
 .site-footer p {
