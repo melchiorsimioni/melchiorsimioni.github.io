@@ -218,7 +218,9 @@ a:hover {
 }
 
 .site-footer-name {
+  grid-column: 1 / -1;
   color: #292929;
+  font-size: 1.35rem;
   font-weight: 700;
 }
 
@@ -234,6 +236,12 @@ a:hover {
   list-style: none;
 }
 
+.site-footer-links li {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
 .site-footer-links a {
   display: grid;
   grid-template-columns: 1.5rem minmax(0, 1fr);
@@ -242,5 +250,6 @@ a:hover {
 }
 
 .site-footer-links i {
+  color: #176b87;
   text-align: center;
 }
