@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://melchiorsimioni.github.io/</loc>
+<loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>https://melchiorsimioni.github.io/apropos</loc>
+<loc>http://localhost:4000/apropos</loc>
 </url>
 <url>
-<loc>https://melchiorsimioni.github.io/publications</loc>
+<loc>http://localhost:4000/publications</loc>
 </url>
 <url>
-<loc>https://melchiorsimioni.github.io/teaching</loc>
+<loc>http://localhost:4000/teaching</loc>
 </url>
 <url>
-<loc>https://melchiorsimioni.github.io/varia</loc>
+<loc>http://localhost:4000/varia</loc>
 </url>
 <url>
-<loc>https://melchiorsimioni.github.io/cv/cv-english.pdf</loc>
+<loc>http://localhost:4000/cv/cv-english.pdf</loc>
 <lastmod>2026-10-29T21:35:03+01:00</lastmod>
 </url>
 <url>
-<loc>https://melchiorsimioni.github.io/cv/cv-francais.pdf</loc>
+<loc>http://localhost:4000/cv/cv-francais.pdf</loc>
 <lastmod>2026-10-30T11:54:35+01:00</lastmod>
 </url>
 </urlset>

@@ -13,7 +13,7 @@ description: >-
     <td width="67%" valign="top">
       Je suis enseignant-chercheur (Maître de conférences contractuel) en sociologie à la <a href="https://sciences-sociales.unistra.fr/faculte/enseignants-chercheurs/">Faculté des sciences sociales de l’Université de Strasbourg</a> et chercheur au laboratoire <a href="https://sage.unistra.fr/melchior-simioni">SAGE</a> (Sociétés, Acteurs et Gouvernement en Europe, UMR 7363 CNRS). Je suis également responsable du <a href="https://cpes.unistra.fr/">Cycle pluridisciplinaire d'études supérieures (CPES)</a> pour la Faculté des sciences sociales.
       <div class="about-intro-translation">
-        <em>I am a Assistant Professor in sociology at the Faculty of Social Sciences, University of Strasbourg, and a member of SAGE (Societies, Actors and Government in Europe, CNRS Joint Research Unit 7363).</em>
+        <em>I am an Assistant Professor in sociology at the Faculty of Social Sciences, University of Strasbourg, and a member of SAGE (Societies, Actors and Government in Europe, CNRS Joint Research Unit 7363).</em>
       </div>
     </td>
     <td width="8%">
@@ -48,6 +48,6 @@ Faculté des sciences sociales, Le Patio (bureau 5.124)
     <li><a href="https://www.github.com/melchiorsimioni"><i class="fa-brands fa-github" aria-hidden="true"></i><span>melchiorsimioni</span></a></li>
     <li><a href="https://orcid.org/0009-0007-4735-4454"><i class="fa-brands fa-orcid" aria-hidden="true"></i><span>orcid.org/0009-0007-4735-4454</span></a></li>
     <li><a href="https://cv.hal.science/melchior-simioni"><i class="fa fa-archive" aria-hidden="true"></i><span>Profil Archive ouverte HAL</span></a></li>
-    <li><a href="http://scholar.google.com/citations?user=_pVx5BkAAAAJ"><i class="fa-brands fa-google-scholar" aria-hidden="true"></i><span>Google Scholar</span></a></li>
+    <li><a href="https://scholar.google.com/citations?user=_pVx5BkAAAAJ"><i class="fa-brands fa-google-scholar" aria-hidden="true"></i><span>Google Scholar</span></a></li>
   </ul>
 </nav>
