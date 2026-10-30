@@ -154,6 +154,25 @@ a:hover {
   outline-offset: 4px;
 }
 
+.about-intro {
+  width: 100%;
+  margin-bottom: 2rem;
+  border-collapse: collapse;
+  border-spacing: 0;
+  border: 0;
+}
+
+.about-intro tr,
+.about-intro td {
+  border: 0;
+}
+
+.about-intro td {
+  padding: 0;
+  text-align: left;
+  vertical-align: top;
+}
+
 @media (max-width: 600px) {
   .site-nav-menu {
     position: relative;

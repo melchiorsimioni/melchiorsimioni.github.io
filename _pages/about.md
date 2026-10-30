@@ -7,19 +7,17 @@ permalink: /
 
 ### Melchior Simioni
 
-<table>
+<table class="about-intro">
   <tr>
     <td width="48%" valign="top">
       Je suis enseignant-chercheur (Maître de conférences contractuel) en sociologie à la [Faculté des sciences sociales de l’Université de Strasbourg](https://sciences-sociales.unistra.fr/faculte/enseignants-chercheurs/) et chercheur au laboratoire [SAGE](https://sage.unistra.fr/melchior-simioni) (Sociétés, Acteurs et Gouvernement en Europe, UMR 7363 CNRS).
-      <br><br>
-      <hr size = 1>
       <br>
       <i>I am a Assistant Professor in sociology at the Faculty of Social Sciences, University of Strasbourg, and a member of SAGE (Societies, Actors and Government in Europe, CNRS Joint Research Unit 7363).</i>
     </td>
     <td width="4%">
     </td>
     <td width="48%" valign="middle">
-    <img src="/img/mspro.jpg">
+    <img src="{{ '/img/mspro.jpg' | relative_url }}" alt="Melchior Simioni">
     </td>  
   </tr>
 </table>
