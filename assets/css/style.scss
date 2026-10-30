@@ -108,6 +108,7 @@ a:hover {
 
 .site-nav a.site-nav-home {
   color: #292929;
+  font-size: 1.2rem;
   font-weight: 700;
 }
 
@@ -204,7 +205,8 @@ a:hover {
 .site-footer {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(min(100%, 18rem), 1fr));
-  gap: 1.5rem;
+  gap: 1.25rem 2rem;
+  align-items: start;
   padding-top: 1.25rem;
   margin-top: 2rem;
   background: none;
@@ -222,4 +224,23 @@ a:hover {
 
 .site-footer nav {
   font-size: 0.9rem;
+}
+
+.site-footer-links {
+  display: grid;
+  gap: 0.4rem;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.site-footer-links a {
+  display: grid;
+  grid-template-columns: 1.5rem minmax(0, 1fr);
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.site-footer-links i {
+  text-align: center;
 }
