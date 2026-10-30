@@ -45,7 +45,7 @@ Faculté des sciences sociales, Le Patio (bureau 5.124)
 
 <nav aria-label="Liens professionnels">
   <ul class="site-footer-links">
-    <li><a href="https://sage.unistra.fr/membres/enseignants-chercheurs/simioni-melchior/"><i class="fa fa-university" aria-hidden="true"></i><span>Page institutionnelle</span></a></li>
+    <li><a href="https://sage.unistra.fr/melchior-simioni"><i class="fa fa-university" aria-hidden="true"></i><span>Page institutionnelle</span></a></li>
     <li><a href="https://www.linkedin.com/in/melchiorsimioni"><i class="fa-brands fa-linkedin" aria-hidden="true"></i><span>melchiorsimioni</span></a></li>
     <li><a href="https://www.github.com/melchiorsimioni"><i class="fa-brands fa-github" aria-hidden="true"></i><span>melchiorsimioni</span></a></li>
     <li><a href="https://orcid.org/0009-0007-4735-4454"><i class="fa-brands fa-orcid" aria-hidden="true"></i><span>orcid.org/0009-0007-4735-4454</span></a></li>
