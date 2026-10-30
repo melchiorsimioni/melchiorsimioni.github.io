@@ -173,6 +173,13 @@ a:hover {
   vertical-align: top;
 }
 
+.about-intro-translation {
+  margin-top: 0.5rem;
+  padding-top: 0.5rem;
+  border-top: 1px solid #e2e2e2;
+  font-style: italic;
+}
+
 @media (max-width: 600px) {
   .site-nav-menu {
     position: relative;
