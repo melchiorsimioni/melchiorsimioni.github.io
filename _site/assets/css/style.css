@@ -185,7 +185,7 @@ footer a:hover { color: #444; }
   ol li { margin-left: 10px; } }
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
-body { color: #333; background: #fff; font-family: Arial, Helvetica, sans-serif; line-height: 1.65; text-shadow: none; }
+body { color: #333; background: #fff; font-family: Arial, Helvetica, sans-serif; line-height: 1.5; text-shadow: none; }
 
 #container { min-height: 100vh; background: none; }
 
@@ -197,13 +197,13 @@ body { color: #333; background: #fff; font-family: Arial, Helvetica, sans-serif;
 
 h1, h2, h3, h4, h5, h6 { color: #292929; letter-spacing: normal; }
 
-h1 { margin-bottom: 1.25rem; font-size: 2rem; line-height: 1.25; }
+h1 { margin-bottom: 1.5rem; font-size: 2rem; line-height: 1.25; }
 
 h2 { margin-top: 2rem; font-size: 1.4rem; line-height: 1.35; }
 
-h3 { font-size: 1.15rem; }
+h3 { margin-top: 2rem; font-size: 1.15rem; }
 
-p { margin-bottom: 1.1rem; font-weight: normal; }
+p { margin-bottom: 1.4rem; font-weight: normal; }
 
 #main_content ul li { padding-left: 0; }
 
