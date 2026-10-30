@@ -8,9 +8,7 @@ description: >-
   le travail, les prisons et les dispositifs d’appariement.
 ---
 
-# Bienvenue | Welcome
-
-### Melchior Simioni
+# Melchior Simioni
 
 <table class="about-intro">
   <tr>

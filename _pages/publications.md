@@ -36,3 +36,7 @@ Hugo Jeanningros, Melchior Simioni et Philippe Steiner (2023), « La foule festi
 Melchior Simioni (2018), « Le prix du travail pénitentiaire : construire un compromis entre économie et correction morale », _Revue française de sociologie_, vol. 59, n° 2, pp. 191-217. doi : [10.3917/rfs.592.0191](https://dx.doi.org/10.3917/rfs.592.0191)
 
 Elsa Génard et Melchior Simioni (2018), « Une histoire politique des chiffres de la prison. Conception, production et usages de la _Statistique pénitentiaire_ (1852-1939) », _Annales. Histoire, Sciences sociales_, vol. 73, n° 4, p. 891-922. doi : [10.1017/ahss.2019.94](https://dx.doi.org/10.1017/ahss.2019.94)
+
+### Publications institutionnelles | Research Reports
+
+Stanislas Spilka et Julien Morel d’Arleux et Melchior Simioni (2024), « Les consommations de drogues en prison. Résultats de l’enquête ESSPRI 2023 », OFDT, _Tendances_, n° 163. [Lien vers la publication.](https://www.ofdt.fr/publication/2024/les-consommations-de-drogues-en-prison-resultat-de-l-enquete-esspri-2023-2001)

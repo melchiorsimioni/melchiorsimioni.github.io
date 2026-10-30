@@ -11,6 +11,9 @@ description: >-
 
 Vous trouverez ici une liste de mes interventions dans les médias et dans les activités de vulgarisation scientifique :
 
+- « Prison : la matérialité de la subsistance », article dans _AOC_, 25 juin 2026 ([lien](https://aoc.media/opinion/2026/06/25/prison-la-materialite-de-la-subsistance/))
+- « Prisons : une économie de grande pauvreté », article dans _Savoir(s)_, Magazine de l’Université de Strasbourg, 21 mai 2025 ([lien](https://savoirs.unistra.fr/eclairage/prisons-une-economie-de-grande-pauvrete))
+- « En prison, un quart des détenus fume du cannabis au quotidien », article dans _The Conversation_ (avec Stanislas Spilka), 14 octobre 2024 ([lien](https://theconversation.com/en-prison-un-quart-des-detenus-fume-du-cannabis-au-quotidien-240120))
 - « La politique des appariements algorithmiques », article dans _AOC_ (avec Philippe Steiner), 2 septembre 2022 ([lien](https://aoc.media/analyse/2022/09/01/la-politique-des-appariements-algorithmiques/))
 - « Les processus d’appariement sont aussi politiques », tribune dans _Le Monde_ (avec Philippe Steiner), 14 juin 2022 ([lien](https://www.lemonde.fr/education/article/2022/06/14/les-processus-d-appariement-sont-aussi-politiques_6130213_1473685.html))
 - « C'est quoi le business dans les prisons ? », podcast « Spla$h », production _Nouvelles écoutes_, mise en ligne le 6 mai 2019 ([lien](https://art19.com/shows/splash/episodes/0ae97df8-1e1a-42f8-94ee-00a1504d16c2))
